@@ -46,6 +46,33 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 <img width="465" height="221" alt="image" src="https://github.com/user-attachments/assets/6c4d1710-e6b1-4b37-a4cc-aee94291c390" />
 
 
+
+
+<img width="294" height="525" alt="Screenshot 2025-12-20 014544" src="https://github.com/user-attachments/assets/df951158-9bdd-470f-a582-c8fe22ae9013" />
+
+<img width="243" height="107" alt="Screenshot 2025-12-20 014600" src="https://github.com/user-attachments/assets/a6e87fa1-c5c0-4247-8a2f-33912c669e0a" />
+
+
+**TABULAR COLUMN:**
+
+<img width="223" height="261" alt="Screenshot 2025-12-20 014609" src="https://github.com/user-attachments/assets/a81e35a1-c176-4422-ab81-efc82e95b6ac" />
+
+
+**CALCULATION:**
+
+
+<img width="310" height="161" alt="Screenshot 2025-12-20 014619" src="https://github.com/user-attachments/assets/7d4b680d-e1a9-4e5f-8acb-ce32c1248857" />
+
+
+
+<img width="209" height="525" alt="Screenshot 2025-12-20 014628" src="https://github.com/user-attachments/assets/89c888df-a75d-4a88-be4a-3534b70d2785" />
+
+**MARK SPLIT UP:**
+
+
+<img width="313" height="235" alt="Screenshot 2025-12-20 014636" src="https://github.com/user-attachments/assets/2331a478-a313-4b78-b78d-8b87d593fb05" />
+
+
 **PROCEDURE:**
 
 1.	Make the connections as per the Circuit Diagram:1
